@@ -1,11 +1,11 @@
 /**
- * File: Lab12Prob01.java
+ * File: Lab12Prob02.java
  * Author: Kalis Sandlin, Tyrone Darby, Wesley Soto
  * Created: MAY 1, 2026
  * Modified: MAY 1, 2026
  * Description: Reverse a string using recursion
  */
-//package Lab;
+package Lab;
 
 public class Lab12Prob02 {
 	public static void main(String[] args) {
