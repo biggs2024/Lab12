@@ -1,8 +1,9 @@
 /**
  * File: Lab12Prob01.java
- * Author: Kalis Sandlin, Tyrone Darby, Wesely Soto
+ * Author: Kalis Sandlin, Tyrone Darby, Wesley Soto
  * Created: MAY 1, 2026
- * Description: 
+ * Modified: MAY 1, 2026
+ * Description: Implement a recursive Abstract method
  */
 package Lab;
 
@@ -11,7 +12,7 @@ public class Lab12Prob01 {
 		System.out.print(recursiveAbstract(5));
 	}
 	
-	// Recursive method
+	// Recursive method implementation
 	public static int recursiveAbstract(int n) {
 		if (n == 0) {
 			return 1;
